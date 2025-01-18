@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { useState } from 'react';
-import cx from 'classnames';
+import cx from "classnames"
 import styles from './index.module.css';
 
 export default function Menu() {
